@@ -10,3 +10,10 @@ This is a Blender addon that generates convex collision hulls for concave object
 1. Copy the Python script in the top directory to your Blender addons directory.  For Blender 2.78 this directory will be "Blender Foundation/Blender/2.78/scripts/addons/".  You're at the right place if you see other scripts prefixed with object\_.
 1. The addon must be enabled before use.  After copying the script to the addons directory, open Blender and navigate to File > User Preferences > Add-ons.  Object: V-HACD will be featured on the list.  Check its mark to enable the addon and save user settings.
 1. Use the addon as instructed for the sister addon in the v-hacd submodule.  This version is convenient for use with Unreal Engine.
+
+
+## Images
+
+![Usage](https://github.com/calben/UnrealConvexHullGenerator/blob/master/docs/screenshot.png)
+
+![Example](https://github.com/calben/UnrealConvexHullGenerator/blob/master/docs/example.png)
